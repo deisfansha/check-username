@@ -16,10 +16,9 @@ hanya mengandung huruf dan angka, diawali dengan huruf, dan memiliki panjang ant
 6. Jika nama pengguna tidak memenuhi salah satu atau semua kriteria validasi, program akan menampilkan pesan kesalahan terkait kriteria yang tidak terpenuhi dan meminta pengguna untuk memasukkan nama pengguna baru.
 7. Langkah 3 hingga 6 akan berulang sampai nama pengguna yang valid dimasukkan.
 
-# Contoh Penggunaan
+# Contoh Output
 
 <pre>
-Berikut adalah contoh output dari program:
 
 ```
 Selamat datang di Program pengecekan validitas Nama Pengguna!
